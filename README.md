@@ -1,7 +1,7 @@
 # Dhruv Patel
 
 Software engineer in Melbourne. I build voice agents, agent harnesses, and the Python/AWS backends behind them.
-[Portfolio](https://YOUR-DOMAIN) (under ⛏️) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/) · dppatel20004@gmail.com
+[Portfolio](https://YOUR-DOMAIN) (under ⛏️) · [LinkedIn](https://www.linkedin.com/in/dhruvpatel-profile/) · [Email at](dppatel20004@gmail.com)
 
 ### Building
 - **[Ovela](https://github.com/My-CMDhub/Ovela-AI)**: a voice receptionist on a real phone line. The first reply of a call went from 3.7 s to 0.9 s; replies that need a tool still take 1.1–1.7 s. [ovela.dev](https://ovela.dev)
