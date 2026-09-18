@@ -1,7 +1,7 @@
 <a href="https://github.com/My-CMDhub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
 
 <p>
-<img alt="status: measuring" src="https://img.shields.io/badge/status-transmitting-1D6E4B?style=flat-square&labelColor=17191C">
+<img alt="status: measuring" src="https://img.shields.io/badge/status-measuring-1D6E4B?style=flat-square&labelColor=17191C">
 <a href="https://github.com/My-CMDhub/Agent-OS/commit/6488e06d7049eccc61761c252117112ab60cf9d2"><img alt="claims withdrawn: 2" src="https://img.shields.io/badge/claims%20withdrawn-2-646B74?style=flat-square&labelColor=17191C"></a>
 <img alt="tests: 1,922 in Ovela, 217 in Agent-OS" src="https://img.shields.io/badge/tests-1%2C922%20%C2%B7%20217-6E2437?style=flat-square&labelColor=17191C">
 <img alt="Ovela last commit" src="https://img.shields.io/github/last-commit/My-CMDhub/Ovela-AI?style=flat-square&label=ovela%20last%20commit&labelColor=17191C&color=1D6E4B">
