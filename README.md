@@ -10,7 +10,7 @@
 </p>
 
 I build the parts around the model: the phone line, the permission prompt, the payment that arrives 0.00025 ETH short.
-Each signal below is one **before → after I got evidence/measured**, with the things aren't fixed yet.
+Each signal below is one measured **before → after**, plus what it still doesn't do.
 
 ### Signals
 
@@ -22,7 +22,10 @@ Each signal below is one **before → after I got evidence/measured**, with the 
 <a href="https://github.com/My-CMDhub/Blockchain-based-Industry-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-dark.svg"><img alt="Capstone: the amount check tightened from ±0.5% to six decimals. No tests for it yet." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-light.svg" width="49%"></picture></a>
 </p>
 
-<sub>Audacix (2025): I chose the local model behind a security scanner's AI assistant and tested its guardrails with an adversarial prompt set. The assistant is still live.</sub>
+<p><sub>internships&nbsp;</sub>
+<a href="https://www.linkedin.com/in/dhruvpatel-profile/details/experience/"><img alt="Silverpond internship, 2026: customers onboard with zero stored AWS keys" src="https://img.shields.io/badge/silverpond-0%20AWS%20keys%20stored-6E2437?style=flat-square&labelColor=17191C"></a>
+<a href="https://www.linkedin.com/in/dhruvpatel-profile/details/experience/"><img alt="Audacix internship, 2025: a security scan that never started" src="https://img.shields.io/badge/audacix-the%20scan%20that%20never%20started-6E2437?style=flat-square&labelColor=17191C"></a>
+</p>
 
 ### Signal log
 
@@ -41,7 +44,7 @@ Each signal below is one **before → after I got evidence/measured**, with the 
 ### Decoded
 
 ```python
-# decoded.py: things the systems forced me to learn by making it misbehave
+# decoded.py: things these systems taught me by misbehaving
 
 silence = doubt                       # 3 s of quiet reads as failure. say "let me have a look".
 heard   = said[:played]               # people keep what reached the ear, not what was generated.
@@ -49,7 +52,7 @@ listed != reachable                   # a button can exist, perfectly named, at 
 yes     = Yes(to=seen, valid_while=unchanged)  # "go ahead" means what I saw, not whatever happens next.
 trip    = None                        # booking lookup: 1,073 ms → 0.4 ms. not a faster trip. no trip.
 
-assert belief <= evidence             # expected 15–50 ms. measured 0.04 ms. belief was wrong.
+assert belief <= evidence             # MCP transport: expected 15–50 ms, measured 0.04 ms.
 ```
 
 <sub>○ → ● &nbsp;every number here comes from a measurement or the git history. Two earlier claims of mine were wrong; both are withdrawn in the open, not deleted.</sub>

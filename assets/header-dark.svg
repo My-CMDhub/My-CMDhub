@@ -7,7 +7,7 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect x=".5" y=".5" width="899" height="299" rx="10" fill="#121513" stroke="#343A35"/>
 <text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="#9AA29B">SIGNAL · 37.81°S 144.96°E · MELBOURNE</text>
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="#63C39B"/>
-<text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="#63C39B">TRANSMITTING</text>
+<text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="#63C39B">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="#E4E7E1">Dhruv Patel</text>
 <text class="s" x="40" y="168" font-size="21" fill="#C4C9C2">I build the parts around the model, and measure them before I believe them.</text>
 <line x1="40" y1="232" x2="860" y2="232" stroke="#343A35" stroke-width="1.5"/>

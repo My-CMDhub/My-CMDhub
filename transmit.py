@@ -69,7 +69,7 @@ def header(t, last):
     body = f"""
 <text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="{t['muted']}">SIGNAL · 37.81°S 144.96°E · MELBOURNE</text>
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="{t['b']}"/>
-<text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="{t['b']}">TRANSMITTING</text>
+<text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="{t['b']}">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="{t['ink']}">Dhruv Patel</text>
 <text class="s" x="40" y="168" font-size="21" fill="{t['ink2']}">I build the parts around the model, and measure them before I believe them.</text>
 <line x1="40" y1="232" x2="860" y2="232" stroke="{t['rule']}" stroke-width="1.5"/>
