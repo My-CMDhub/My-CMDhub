@@ -1,0 +1,21 @@
+name: Transmit
+on:
+  schedule: [{ cron: '0 20 * * *' }]   # 06:00 Melbourne (AEST)
+  workflow_dispatch:
+  push:
+    paths: ['transmit.py', 'README.md']
+permissions:
+  contents: write
+jobs:
+  transmit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 transmit.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - run: |
+          git diff --quiet && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A && git commit -m 'transmit: refresh signal' && git push
