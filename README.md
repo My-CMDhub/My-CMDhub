@@ -1,7 +1,7 @@
 <a href="https://github.com/My-CMDhub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
 
 <p>
-<img alt="status: transmitting" src="https://img.shields.io/badge/status-transmitting-1D6E4B?style=flat-square&labelColor=17191C">
+<img alt="status: measuring" src="https://img.shields.io/badge/status-transmitting-1D6E4B?style=flat-square&labelColor=17191C">
 <a href="https://github.com/My-CMDhub/Agent-OS/commit/6488e06d7049eccc61761c252117112ab60cf9d2"><img alt="claims withdrawn: 2" src="https://img.shields.io/badge/claims%20withdrawn-2-646B74?style=flat-square&labelColor=17191C"></a>
 <img alt="tests: 1,922 in Ovela, 217 in Agent-OS" src="https://img.shields.io/badge/tests-1%2C922%20%C2%B7%20217-6E2437?style=flat-square&labelColor=17191C">
 <img alt="Ovela last commit" src="https://img.shields.io/github/last-commit/My-CMDhub/Ovela-AI?style=flat-square&label=ovela%20last%20commit&labelColor=17191C&color=1D6E4B">
@@ -10,7 +10,7 @@
 </p>
 
 I build the parts around the model: the phone line, the permission prompt, the payment that arrives 0.00025 ETH short.
-Each signal below is one **before → after I measured**, with the thing it still doesn't do.
+Each signal below is one **before → after I got evidence/measured**, with the things aren't fixed yet.
 
 ### Signals
 
@@ -42,7 +42,7 @@ Each signal below is one **before → after I measured**, with the thing it stil
 ### Decoded
 
 ```python
-# decoded.py: what the machines taught me, in the order they taught it
+# decoded.py: things the systems forced me to learn by making it misbehave
 
 silence = doubt                       # 3 s of quiet reads as failure. say "let me have a look".
 heard   = said[:played]               # people keep what reached the ear, not what was generated.
@@ -50,7 +50,7 @@ listed != reachable                   # a button can exist, perfectly named, at 
 yes     = Yes(to=seen, still_true=True)  # "go ahead" means what I saw, not whatever happens next.
 trip    = None                        # 1,073 ms → 0.4 ms. not a faster trip. no trip.
 
-assert belief <= evidence             # caught defending 15–50 ms once. it was 0.04 ms.
+assert belief <= evidence             # expected 15–50 ms. measured 0.04 ms. belief was wrong.
 ```
 
 <sub>○ → ● &nbsp;every signal here was measured. Two of mine turned out wrong; they're withdrawn in the open, not deleted.</sub>
