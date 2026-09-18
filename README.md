@@ -1,16 +1,17 @@
-## Hi there 👋
+# Dhruv Patel
 
-<!--
-**My-CMDhub/My-CMDhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Melbourne. I build voice agents, agent harnesses, and the Python/AWS backends behind them.
+[Portfolio](https://YOUR-DOMAIN) (under ⛏️) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/) · dppatel20004@gmail.com
 
-Here are some ideas to get you started:
+### Building
+- **[Ovela](https://github.com/My-CMDhub/Ovela-AI)**: a voice receptionist on a real phone line. The first reply of a call went from 3.7 s to 0.9 s; replies that need a tool still take 1.1–1.7 s. [ovela.dev](https://ovela.dev)
+- **[Agent-OS](https://github.com/My-CMDhub/Agent-OS)**: a harness a model can operate a Mac through. Irreversible actions are refused, and approval needs a hardware click. No model drives it yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Shipped
+- **[Capstone payment gateway](https://github.com/My-CMDhub/Blockchain-based-Industry-Project)**: an HD-wallet Ethereum gateway for a real client. Overall Team Winner, MIT IMPACT 2025.
+- **Silverpond** (internship, 2026): a multi-tenant agent architecture on AWS (STS with ExternalId, ECS Fargate, managed agents), built into the Rails product. The code is private; [the case](https://YOUR-DOMAIN/work/silverpond/) is public.
+- **Audacix** (internship, 2025): chose and guarded the local model behind a security scanner's assistant, which is still live.
+
+### Recent commits
+<!--recent:start-->
+<!--recent:end-->
