@@ -14,4 +14,9 @@ Software engineer in Melbourne. I build voice agents, agent harnesses, and the P
 
 ### Recent commits
 <!--recent:start-->
+- [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) · 2026-09-18 · prompt(identity): call the guest by the name on the booking, not the misheard on
+- [Agent-OS](https://github.com/My-CMDhub/Agent-OS) · 2026-09-18 · docs: tidy the README's opening pointer to the limits section
+- [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) · 2026-09-18 · Update landing page content and visuals for demo store launch
+- [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) · 2026-03-12 · Add Reactbit as a source for animation components
+- [Grocery-Prediction-AI-Agent](https://github.com/My-CMDhub/Grocery-Prediction-AI-Agent) · 2026-01-17 · Rename project from Recipe Bot to Grocery Agent
 <!--recent:end-->
