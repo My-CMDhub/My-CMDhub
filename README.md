@@ -36,7 +36,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | dhruvpatel.net: portfolio site |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Journey line under the name; new-tab off-site links; clearer wording from review; new pitch |
 | `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | prompt(identity): call the guest by the name on the booking, not the misheard one |
 | `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: tidy the README's opening pointer to the limits section |
 | `yesterday` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
