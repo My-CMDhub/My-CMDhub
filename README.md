@@ -34,11 +34,11 @@ Each signal below is one measured **before → after**, plus what it still doesn
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | prompt(identity): call the guest by the name on the booking, not the misheard one |
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: tidy the README's opening pointer to the limits section |
-| `today` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | dhruvpatel.net: portfolio site |
+| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | prompt(identity): call the guest by the name on the booking, not the misheard one |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: tidy the README's opening pointer to the limits section |
+| `yesterday` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
 | `Mar 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Add Reactbit as a source for animation components |
-| `Jan 2026` | [Grocery-Prediction-AI-Agent](https://github.com/My-CMDhub/Grocery-Prediction-AI-Agent) | Rename project from Recipe Bot to Grocery Agent |
 <!--signal:end-->
 
 ### Decoded
