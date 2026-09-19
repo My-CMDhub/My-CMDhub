@@ -36,7 +36,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Calibrated: the one hidden sound, once per visit, when every home ledger has been opened |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Audacix: checked facts, streaming guardrails, and which models fit a 16 GB GPU |
 | `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: mark the NOT YET line the portfolio reads |
 | `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | docs: mark the NOT YET line the portfolio reads |
 | `yesterday` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
