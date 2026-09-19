@@ -9,7 +9,7 @@
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="#63C39B"/>
 <text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="#63C39B">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="#E4E7E1">Dhruv Patel</text>
-<text class="s" x="40" y="168" font-size="21" fill="#C4C9C2">I build the parts around the model, and measure them before I believe them.</text>
+<text class="s" x="40" y="168" font-size="21" fill="#C4C9C2">I build the parts of AI software around the model, and measure them before I believe them.</text>
 <line x1="40" y1="232" x2="860" y2="232" stroke="#343A35" stroke-width="1.5"/>
 <clipPath id="k"><rect x="40" y="180" width="820" height="100"/></clipPath>
 <g clip-path="url(#k)"><path class="pulse" d="M-60 0 H-14 L-8 -16 L-2 20 L4 -34 L10 12 L15 0 H60" transform="translate(40 232)" fill="none" stroke="#63C39B" stroke-width="2" stroke-linejoin="round"/></g>

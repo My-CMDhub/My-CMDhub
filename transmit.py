@@ -28,14 +28,14 @@ THEMES = {
 CARDS = [
     dict(id='ovela', n='01', name='Ovela', kind='voice receptionist on a real phone line',
          what='The first reply of a call', old='3.7 s', new='0.9 s',
-         scale=('linear', 4, 's'), vals=(3.7, 0.9), label='measured · one call each side',
+         scale=('linear', 4, 's'), vals=(3.7, 0.9), label='measured · one call before, one after',
          not_yet='as fast when a tool runs · 1.1–1.7 s'),
-    dict(id='agent-os', n='02', name='Agent-OS', kind='a harness built for a model to drive a Mac',
+    dict(id='agent-os', n='02', name='Agent-OS', kind='a harness built for an AI model to operate a Mac',
          what='A request queued behind a 3-second action', old='2,864 ms', new='5 ms',
          scale=('log',), vals=(2864, 5), label='measured · median of 5 · log scale',
-         not_yet='a model driving it'),
-    dict(id='capstone', n='03', name='Capstone', kind='ETH payment gateway · IMPACT 2025 winner',
-         what='How far a payment may drift from the invoice', old='±0.5%', new='6 dp',
+         not_yet='a model driving it · actions hand-written for now'),
+    dict(id='capstone', n='03', name='Capstone', kind='ETH payment gateway · capstone showcase winner',
+         what='How far a payment may be from the amount asked', old='±0.5%', new='±0.003%',
          scale=('band',), vals=None, label='source · git history of the amount check',
          not_yet='tests for the amount check'),
 ]
@@ -71,7 +71,7 @@ def header(t, last):
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="{t['b']}"/>
 <text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="{t['b']}">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="{t['ink']}">Dhruv Patel</text>
-<text class="s" x="40" y="168" font-size="21" fill="{t['ink2']}">I build the parts around the model, and measure them before I believe them.</text>
+<text class="s" x="40" y="168" font-size="21" fill="{t['ink2']}">I build the parts of AI software around the model, and measure them before I believe them.</text>
 <line x1="40" y1="232" x2="860" y2="232" stroke="{t['rule']}" stroke-width="1.5"/>
 <clipPath id="k"><rect x="40" y="180" width="820" height="100"/></clipPath>
 <g clip-path="url(#k)"><path class="pulse" d="{blip}" transform="translate(40 232)" fill="none" stroke="{t['b']}" stroke-width="2" stroke-linejoin="round"/></g>
