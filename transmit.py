@@ -26,11 +26,11 @@ THEMES = {
 }
 
 CARDS = [
-    dict(id='ovela', n='01', name='Ovela', kind='voice receptionist on a real phone line',
+    dict(id='ovela', n='01', repo='Ovela-AI', name='Ovela', kind='voice receptionist on a real phone line',
          what='The first reply of a call', old='3.7 s', new='0.9 s',
          scale=('linear', 4, 's'), vals=(3.7, 0.9), label='measured · one call before, one after',
          not_yet='as fast when a tool runs · 1.1–1.7 s'),
-    dict(id='agent-os', n='02', name='Agent-OS', kind='a harness built for an AI model to operate a Mac',
+    dict(id='agent-os', n='02', repo='Agent-OS', name='Agent-OS', kind='a harness built for an AI model to operate a Mac',
          what='A request queued behind a 3-second action', old='2,864 ms', new='5 ms',
          scale=('log',), vals=(2864, 5), label='measured · median of 5 · log scale',
          not_yet='a model driving it · actions hand-written for now'),
@@ -170,6 +170,17 @@ def recent(n=5):
     return rows
 
 
+def not_yet(repo):
+    """The NOT YET line from a project's README, same rule as the site's data/notYet.ts."""
+    try:
+        with urllib.request.urlopen(f'https://raw.githubusercontent.com/{USER}/{repo}/HEAD/README.md', timeout=10) as r:
+            m = re.search(r'<!--\s*not-yet\s*-->(.*?)<!--\s*/not-yet\s*-->', r.read().decode(), re.S)
+    except OSError:
+        return None
+    line = re.sub(r'\s+', ' ', re.sub(r'[`*_]', '', m[1])).strip() if m else ''
+    return line if 3 <= len(line) <= 60 and not re.search('[<>]', line) else None
+
+
 def ago(day):
     d = (datetime.now(timezone.utc).date() - datetime.fromisoformat(day).date()).days
     if d < 14:
@@ -179,6 +190,9 @@ def ago(day):
 
 def main():
     rows = recent()
+    for c in CARDS:
+        if c.get('repo'):
+            c['not_yet'] = not_yet(c['repo']) or c['not_yet']
     for name, t in THEMES.items():
         (ASSETS / f'header-{name}.svg').write_text(header(t, (rows[0][0], rows[0][2], rows[0][3])))
         for c in CARDS:
