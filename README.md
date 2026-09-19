@@ -1,6 +1,7 @@
-<a href="https://github.com/My-CMDhub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
+<a href="https://dhruvpatel.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
 
 <p>
+<a href="https://dhruvpatel.net"><img alt="Site: dhruvpatel.net" src="https://img.shields.io/badge/site-dhruvpatel.net-1D6E4B?style=flat-square&labelColor=17191C"></a>
 <img alt="status: measuring" src="https://img.shields.io/badge/status-measuring-1D6E4B?style=flat-square&labelColor=17191C">
 <a href="https://github.com/My-CMDhub/Agent-OS/commit/6488e06d7049eccc61761c252117112ab60cf9d2"><img alt="claims withdrawn: 2" src="https://img.shields.io/badge/claims%20withdrawn-2-646B74?style=flat-square&labelColor=17191C"></a>
 <img alt="tests: 1,922 in Ovela, 217 in Agent-OS" src="https://img.shields.io/badge/tests-ovela%201%2C922%20%C2%B7%20agent--os%20217-6E2437?style=flat-square&labelColor=17191C">
@@ -11,6 +12,7 @@
 
 I build the parts around the model: the phone line, the permission prompt, the payment that arrives 0.00025 ETH short.
 Each signal below is one measured **before → after**, plus what it still doesn't do.
+The full cases, with the rules re-running in your browser, are at **[dhruvpatel.net](https://dhruvpatel.net)**.
 
 ### Signals
 
@@ -23,8 +25,8 @@ Each signal below is one measured **before → after**, plus what it still doesn
 </p>
 
 <p><sub>internships&nbsp;</sub>
-<a href="https://www.linkedin.com/in/dhruvpatel-profile/details/experience/"><img alt="Silverpond internship, 2026: customers onboard with zero stored AWS keys" src="https://img.shields.io/badge/silverpond-0%20AWS%20keys%20stored-6E2437?style=flat-square&labelColor=17191C"></a>
-<a href="https://www.linkedin.com/in/dhruvpatel-profile/details/experience/"><img alt="Audacix internship, 2025: a security scan that never started" src="https://img.shields.io/badge/audacix-the%20scan%20that%20never%20started-6E2437?style=flat-square&labelColor=17191C"></a>
+<a href="https://dhruvpatel.net/work/silverpond/"><img alt="Silverpond internship, 2026: customers onboard with zero stored AWS keys" src="https://img.shields.io/badge/silverpond-0%20AWS%20keys%20stored-6E2437?style=flat-square&labelColor=17191C"></a>
+<a href="https://dhruvpatel.net/work/audacix/"><img alt="Audacix internship, 2025: a security scan that never started" src="https://img.shields.io/badge/audacix-the%20scan%20that%20never%20started-6E2437?style=flat-square&labelColor=17191C"></a>
 </p>
 
 ### Signal log
