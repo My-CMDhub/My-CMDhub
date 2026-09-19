@@ -36,9 +36,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Deploy from GitHub Actions via OIDC; NOT YET for live projects read from their READMEs |
-| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | prompt(identity): call the guest by the name on the booking, not the misheard one |
-| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: tidy the README's opening pointer to the limits section |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Calibrated: the one hidden sound, once per visit, when every home ledger has been opened |
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: mark the NOT YET line the portfolio reads |
+| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | docs: mark the NOT YET line the portfolio reads |
 | `yesterday` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
 | `Mar 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Add Reactbit as a source for animation components |
 <!--signal:end-->
