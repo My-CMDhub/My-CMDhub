@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | updated context |
-| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs: mark the NOT YET line the portfolio reads |
-| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | docs: mark the NOT YET line the portfolio reads |
-| `2 days ago` | [blockchain_landing_page](https://github.com/My-CMDhub/blockchain_landing_page) | Update landing page content and visuals for demo store launch |
-| `Mar 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Add Reactbit as a source for animation components |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Add Solar Saver to the also list |
+| `today` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `today` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
+| `today` | [ChatVid](https://github.com/My-CMDhub/ChatVid) | Read IP_SALT on first use, and take the DSN out of the edge Sentry config |
+| `today` | [SYRA](https://github.com/My-CMDhub/SYRA) | Rewrite README and make requirements.txt resolvable |
 <!--signal:end-->
 
 ### Decoded
