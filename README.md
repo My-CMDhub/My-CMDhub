@@ -1,4 +1,4 @@
-<a href="https://dhruvpatel.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts of system software around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
+<a href="https://dhruvpatel.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts of software system around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
 
 <p>
 <a href="https://dhruvpatel.net"><img alt="Site: dhruvpatel.net" src="https://img.shields.io/badge/site-dhruvpatel.net-1D6E4B?style=flat-square&labelColor=17191C"></a>
