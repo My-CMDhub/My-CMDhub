@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Add Solar Saver to the also list |
-| `today` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `today` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
-| `today` | [ChatVid](https://github.com/My-CMDhub/ChatVid) | Read IP_SALT on first use, and take the DSN out of the edge Sentry config |
-| `today` | [SYRA](https://github.com/My-CMDhub/SYRA) | Rewrite README and make requirements.txt resolvable |
+| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Add Solar Saver to the also list |
+| `yesterday` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `yesterday` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
+| `yesterday` | [ChatVid](https://github.com/My-CMDhub/ChatVid) | Read IP_SALT on first use, and take the DSN out of the edge Sentry config |
+| `yesterday` | [SYRA](https://github.com/My-CMDhub/SYRA) | Rewrite README and make requirements.txt resolvable |
 <!--signal:end-->
 
 ### Decoded
