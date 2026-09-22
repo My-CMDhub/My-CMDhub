@@ -71,7 +71,7 @@ def header(t, last):
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="{t['b']}"/>
 <text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="{t['b']}">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="{t['ink']}">Dhruv Patel</text>
-<text class="s" x="40" y="168" font-size="21" fill="{t['ink2']}">I build the parts of AI software around the model, and measure them before I believe them.</text>
+<text class="s" x="40" y="168" font-size="21" fill="{t['ink2']}">I build the parts of software system around the model, and measure them before I believe them.</text>
 <line x1="40" y1="232" x2="860" y2="232" stroke="{t['rule']}" stroke-width="1.5"/>
 <clipPath id="k"><rect x="40" y="180" width="820" height="100"/></clipPath>
 <g clip-path="url(#k)"><path class="pulse" d="{blip}" transform="translate(40 232)" fill="none" stroke="{t['b']}" stroke-width="2" stroke-linejoin="round"/></g>
