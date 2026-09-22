@@ -5,7 +5,7 @@
 .breathe{animation:breathe 2.8s ease-in-out infinite}
 @keyframes travel{from{transform:translate(-20px,232px)}to{transform:translate(920px,232px)}}.pulse{animation:travel 7s linear infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect x=".5" y=".5" width="899" height="299" rx="10" fill="#121513" stroke="#343A35"/>
-<text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="#9AA29B">SIGNAL · 37.81°S 144.96°E · MELBOURNE</text>
+<text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="#9AA29B">SIGNAL ·  -38.1500° S 144.3500° E· NEAR MELBOURNE</text>
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="#63C39B"/>
 <text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="#63C39B">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="#E4E7E1">Dhruv Patel</text>

@@ -67,7 +67,7 @@ def header(t, last):
     # an ECG-style blip that travels the line: the profile's pulse
     blip = 'M-60 0 H-14 L-8 -16 L-2 20 L4 -34 L10 12 L15 0 H60'
     body = f"""
-<text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="{t['muted']}">SIGNAL · 37.81°S 144.96°E · MELBOURNE</text>
+<text class="mm" x="40" y="46" font-size="12" letter-spacing="1.2" fill="{t['muted']}">SIGNAL · -38.1500° S 144.3500° E· NEAR MELBOURNE</text>
 <circle class="breathe" cx="772" cy="42" r="4.5" fill="{t['b']}"/>
 <text class="mm" x="784" y="46" font-size="12" letter-spacing="1.2" fill="{t['b']}">MEASURING</text>
 <text class="c" x="36" y="128" font-size="78" letter-spacing="-2.5" fill="{t['ink']}">Dhruv Patel</text>
