@@ -36,7 +36,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Add Solar Saver to the also list |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Update location description |
 | `yesterday` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 | `yesterday` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 | `yesterday` | [ChatVid](https://github.com/My-CMDhub/ChatVid) | Read IP_SALT on first use, and take the DSN out of the edge Sentry config |
