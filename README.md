@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Update project metadata stack |
-| `yesterday` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `yesterday` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
-| `yesterday` | [ChatVid](https://github.com/My-CMDhub/ChatVid) | Read IP_SALT on first use, and take the DSN out of the edge Sentry config |
-| `yesterday` | [SYRA](https://github.com/My-CMDhub/SYRA) | Rewrite README and make requirements.txt resolvable |
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(bench): --voice-bench-stacks runs a subset, so a re-run skips a stack already measured |
+| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | tools(stage0): measure turn-taking from the caller's side of the call |
+| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Update project metadata stack |
+| `2 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `2 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
 
 ### Decoded
