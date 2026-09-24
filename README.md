@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(bench): --voice-bench-stacks runs a subset, so a re-run skips a stack already measured |
-| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | tools(stage0): measure turn-taking from the caller's side of the call |
-| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Update project metadata stack |
-| `2 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `2 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(eval): offline Jev-vs-LLM chooser replay on the voice decision trace |
+| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
+| `3 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `3 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
 
 ### Decoded
