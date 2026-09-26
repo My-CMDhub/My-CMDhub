@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(voice): auto-focus the named app when the owner's words and the tool agree |
-| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
-| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
-| `4 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `4 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(voice): auto-focus the named app when the owner's words and the tool agree |
+| `2 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
+| `2 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
+| `5 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `5 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
 
 ### Decoded
