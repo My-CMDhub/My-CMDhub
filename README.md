@@ -36,11 +36,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `2 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(voice): auto-focus the named app when the owner's words and the tool agree |
-| `3 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
-| `3 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
-| `6 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `6 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(voice): bias OpenAI's input transcriber toward installed app names |
+| `5 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
+| `5 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
+| `8 days ago` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
+| `8 days ago` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
 
 ### Decoded
