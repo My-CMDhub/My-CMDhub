@@ -34,9 +34,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: refined cases and description |
 | `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(kernel): a field reached through its label is named by that label |
 | `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | Update README to reflect project status |
-| `12 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | Say which clock each answer time is on, and correct the Royal Humane Society |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 | `Sep 2026` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
