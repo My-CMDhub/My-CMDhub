@@ -31,8 +31,6 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 
 ### Signal log
 
-<sub>Refreshed every morning from my public commits by <a href="transmit.py">transmit.py</a>. Nothing in this table is typed by hand.</sub>
-
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
