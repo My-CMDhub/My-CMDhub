@@ -34,9 +34,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(harness): openURL counts a newly selected tab as the browser reacting |
-| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) |  |
-| `2 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: refined cases and description |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(voice): a task stopped by the owner's word is told to that same turn |
+| `2 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) |  |
+| `3 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: refined cases and description |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 | `Sep 2026` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
