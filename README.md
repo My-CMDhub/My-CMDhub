@@ -34,9 +34,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(settings): open_settings_pane opens only a verified pane by its deep link |
-| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) |  |
-| `yesterday` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(settings): open_settings_pane opens only a verified pane by its deep link |
+| `yesterday` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) |  |
+| `2 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 | `Sep 2026` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
