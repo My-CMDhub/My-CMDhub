@@ -34,7 +34,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): count a creation task's leftovers with the app launched, not as 0 |
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(agent): a button press commits a typed entry; the done read sees the title |
 | `3 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) |  |
 | `4 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
