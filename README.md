@@ -34,11 +34,11 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | feat(dates,booking): the owner's rules for weekends, "next" and moved holds |
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(agent): a button press commits a typed entry; the done read sees the title |
-| `4 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
+| `today` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: README with screenshots, how it works, measured results, quick start |
+| `today` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(agent): a button press commits a typed entry; the done read sees the title |
+| `5 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
-| `Sep 2026` | [Django-Task-Manager](https://github.com/My-CMDhub/Django-Task-Manager) | Remove committed credentials and personal data, and clear out dev scratch files |
 <!--signal:end-->
 
 ### Decoded
