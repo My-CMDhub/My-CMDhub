@@ -34,10 +34,10 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: live demo link; say phones get the recorded message and that loading is heavy |
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): E03 reads tomorrow's meetings from the month grid, or does not run |
-| `2 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
-| `7 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
+| `today` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | feat: check the owner's edit as they type, the same way Send will; only the verdict and the Send button repaint, so the caret stays |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): E03 reads tomorrow's meetings from the month grid, or does not run |
+| `3 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
+| `8 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 <!--signal:end-->
 
