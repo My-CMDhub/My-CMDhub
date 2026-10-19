@@ -2,8 +2,8 @@ name: Transmit
 on:
   # Hourly, at :17 rather than :00 — GitHub queues the top of the hour and runs those late (the daily
   # run was landing ~2 h after its slot). A run only commits when the cards actually changed.
-  # Instant "on any change to my GitHub" isn't an event Actions has: it would need a workflow plus a
-  # token in every other repo, so an hour is the lag.
+  # The site also starts this run after every deploy (site.yml, PROFILE_TOKEN), so a change there
+  # shows here within minutes. Commits elsewhere show on the next hourly run.
   schedule: [{ cron: '17 * * * *' }]
   workflow_dispatch:
   push:

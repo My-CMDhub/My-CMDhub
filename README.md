@@ -1,4 +1,6 @@
-<a href="https://dhruvpatel.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the parts of software system around the model, and measure them before I believe them. Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
+<!--header:start-->
+<a href="https://dhruvpatel.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-dark.svg"><img alt="Dhruv Patel: I build the systems around the model, and measure them before I trust them. Near Melbourne." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/header-light.svg" width="100%"></picture></a>
+<!--header:end-->
 
 <p>
 <a href="https://dhruvpatel.net"><img alt="Site: dhruvpatel.net" src="https://img.shields.io/badge/site-dhruvpatel.net-1D6E4B?style=flat-square&labelColor=17191C"></a>
@@ -16,28 +18,31 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 
 ### Signals
 
+<!--cards:start-->
 <p>
-<a href="https://github.com/My-CMDhub/Ovela-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/ovela-dark.svg"><img alt="Ovela: first reply of a call, 3.7 s to 0.9 s. Not yet as fast when a tool runs." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/ovela-light.svg" width="49%"></picture></a>
-<a href="https://github.com/My-CMDhub/Agent-OS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/agent-os-dark.svg"><img alt="Agent-OS: a request behind a 3-second action, 2,864 ms to 5 ms. Not yet driven by a model." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/agent-os-light.svg" width="49%"></picture></a>
+<a href="https://github.com/My-CMDhub/Ovela-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/ovela-dark.svg"><img alt="Ovela: The first reply of a call, 3.7 s to 0.9 s. Not yet: under a second from the caller&#x27;s last word · 1.5–1.7 s." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/ovela-light.svg" width="49%"></picture></a>
+<a href="https://github.com/My-CMDhub/Agent-OS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/agent-os-dark.svg"><img alt="Agent-OS: How long a command waited behind a slow one, 2,864 ms to 5 ms. Not yet: memory across sessions · apps without a readable structure." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/agent-os-light.svg" width="49%"></picture></a>
 </p>
-<p align="center">
-<a href="https://github.com/My-CMDhub/Blockchain-based-Industry-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-dark.svg"><img alt="Capstone: the amount check tightened from ±0.5% to ±0.003%. No tests for it yet." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-light.svg" width="49%"></picture></a>
+<p>
+<a href="https://github.com/My-CMDhub/no-show-desk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/no-show-desk-dark.svg"><img alt="No-Show Desk: Messages with a wrong date or total, 13 / 100 to 0 / 100. Not yet: live motel bookings, and the morning message on them." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/no-show-desk-light.svg" width="49%"></picture></a>
+<a href="https://github.com/My-CMDhub/Blockchain-based-Industry-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-dark.svg"><img alt="Capstone: How far off a payment could be and still count as paid, ±0.5% to ±0.003%. Not yet: tests for the amount check." src="https://raw.githubusercontent.com/My-CMDhub/My-CMDhub/main/assets/capstone-light.svg" width="49%"></picture></a>
 </p>
 
 <p><sub>internships&nbsp;</sub>
-<a href="https://dhruvpatel.net/work/silverpond/"><img alt="Silverpond internship, 2026: customers onboard with zero stored AWS keys" src="https://img.shields.io/badge/silverpond-0%20AWS%20keys%20stored-6E2437?style=flat-square&labelColor=17191C"></a>
-<a href="https://dhruvpatel.net/work/audacix/"><img alt="Audacix internship, 2025: a security scan that never started" src="https://img.shields.io/badge/audacix-the%20scan%20that%20never%20started-6E2437?style=flat-square&labelColor=17191C"></a>
+<a href="https://dhruvpatel.net/work/silverpond/"><img alt="Silverpond internship: a stored AWS key to nothing to store" src="https://img.shields.io/badge/silverpond-a%20stored%20AWS%20key%20%E2%86%92%20nothing%20to%20store-6E2437?style=flat-square&labelColor=17191C"></a>
+<a href="https://dhruvpatel.net/work/audacix/"><img alt="Audacix internship: Llama 3.1 to Qwen 2.5" src="https://img.shields.io/badge/audacix-Llama%203.1%20%E2%86%92%20Qwen%202.5-6E2437?style=flat-square&labelColor=17191C"></a>
 </p>
+<!--cards:end-->
 
 ### Signal log
 
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): read M02's reminder in the Scheduled smart list |
-| `today` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
-| `4 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
-| `9 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: clarify descriptions and improve wording in Audacix and Silverpond pages |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: add new project "No-Show Desk" with detailed descriptions and improve slug handling in components |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): read M02's reminder in the Scheduled smart list |
+| `yesterday` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
+| `5 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 <!--signal:end-->
 
