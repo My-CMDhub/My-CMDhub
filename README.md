@@ -39,7 +39,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: add new project "No-Show Desk" with detailed descriptions and improve slug handling in components |
+| `today` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: enhance GitHub Actions workflow and update project metadata |
 | `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): read M02's reminder in the Scheduled smart list |
 | `yesterday` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `5 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
