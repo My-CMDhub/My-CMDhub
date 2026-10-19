@@ -1,11 +1,16 @@
 name: Transmit
 on:
-  schedule: [{ cron: '0 20 * * *' }]   # 06:00 Melbourne (AEST)
+  # Hourly, at :17 rather than :00 — GitHub queues the top of the hour and runs those late (the daily
+  # run was landing ~2 h after its slot). A run only commits when the cards actually changed.
+  # Instant "on any change to my GitHub" isn't an event Actions has: it would need a workflow plus a
+  # token in every other repo, so an hour is the lag.
+  schedule: [{ cron: '17 * * * *' }]
   workflow_dispatch:
   push:
     paths: ['transmit.py', 'README.md']
 permissions:
   contents: write
+concurrency: transmit   # one run at a time, so two never race to push
 jobs:
   transmit:
     runs-on: ubuntu-latest
