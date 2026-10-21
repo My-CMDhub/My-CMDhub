@@ -39,8 +39,8 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): complete EventKit-made test reminders when the AX checkbox does not |
 | `2 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
-| `3 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | fix(suite): read M02's reminder in the Scheduled smart list |
 | `3 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `7 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
