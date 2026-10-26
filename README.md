@@ -39,10 +39,10 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `2 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs(readme): a stable overview — principles, how to run, one Not-yet line |
-| `6 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
-| `7 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
-| `11 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
+| `3 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs(readme): a stable overview — principles, how to run, one Not-yet line |
+| `7 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
+| `8 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
+| `12 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 <!--signal:end-->
 
