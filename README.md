@@ -39,7 +39,7 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `4 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | docs(readme): a stable overview — principles, how to run, one Not-yet line |
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
 | `8 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
 | `9 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `13 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
