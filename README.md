@@ -39,10 +39,10 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
-| `8 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
-| `9 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
-| `13 days ago` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
+| `yesterday` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
+| `9 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fix: improve wording |
+| `10 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
+| `Oct 2026` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 | `Sep 2026` | [NextMotion-Website](https://github.com/My-CMDhub/NextMotion-Website) | Rewrite the README: say which effects are React Bits and which are mine |
 <!--signal:end-->
 
