@@ -39,10 +39,10 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `yesterday` | [cachewatch](https://github.com/My-CMDhub/cachewatch) | fix(install): start SwiftBar by path right after Homebrew installs it |
-| `2 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fixed description |
-| `3 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
-| `12 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
+| `2 days ago` | [cachewatch](https://github.com/My-CMDhub/cachewatch) | fix(install): start SwiftBar by path right after Homebrew installs it |
+| `3 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fixed description |
+| `4 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
+| `13 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `Oct 2026` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 <!--signal:end-->
 
