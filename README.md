@@ -39,9 +39,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
+| `today` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(agent): Claude's computer toolset on the guarded whole-screen hands |
 | `today` | [cachewatch](https://github.com/My-CMDhub/cachewatch) | feat: background check for developer tools left running (1.1.0) |
 | `3 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | fixed description |
-| `4 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(calendar): read_calendar answers what is on a day from EventKit, the range from the owner's words |
 | `13 days ago` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `Oct 2026` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 <!--signal:end-->
