@@ -39,9 +39,9 @@ The full cases, with interactive demos running the real rules, are at **[dhruvpa
 <!--signal:start-->
 | | repo | latest change |
 |:--|:--|:--|
-| `3 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: add new blog post and fixed double tap to back page issue |
-| `5 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(focus): "this" means what the owner selected, circled or rested on |
-| `7 days ago` | [cachewatch](https://github.com/My-CMDhub/cachewatch) | feat: background check for developer tools left running (1.1.0) |
+| `4 days ago` | [dhruvpatel.net](https://github.com/My-CMDhub/dhruvpatel.net) | feat: add new blog post and fixed double tap to back page issue |
+| `6 days ago` | [Agent-OS](https://github.com/My-CMDhub/Agent-OS) | feat(focus): "this" means what the owner selected, circled or rested on |
+| `8 days ago` | [cachewatch](https://github.com/My-CMDhub/cachewatch) | feat: background check for developer tools left running (1.1.0) |
 | `Oct 2026` | [no-show-desk](https://github.com/My-CMDhub/no-show-desk) | docs: the landing page links to the final film (v10) |
 | `Oct 2026` | [Ovela-AI](https://github.com/My-CMDhub/Ovela-AI) | fix(demo): every demo call waits for approval; provider failures stay private |
 <!--signal:end-->
